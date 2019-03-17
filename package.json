@@ -1,0 +1,18 @@
+{
+    "name": "hello-world",
+    "version": "0.1.1",
+    "description": "hello world test app for open source development",
+    "main": "helloworld",
+    "repository":{
+            "type": "git",
+            "url": "https://github.com/shivajiverma/hello-world.git"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "shivaji verma",
+    "dependencies": {},
+    "engines":{
+        "node":"*"
+    }
+  }
